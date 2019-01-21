@@ -1,2 +1,2 @@
 # rocketseat-nodejs
-Development of tutorial from rocketseat about node.js
+Development of an API REST with node.js application from rocketseat's tutorial
